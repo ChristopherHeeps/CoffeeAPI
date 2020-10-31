@@ -1,0 +1,9 @@
+﻿
+Create databse name CoffeeAPI
+
+Run Table scripts in order of
++ CoffeeTable
++ UserRating
++ CoffeeUserRating (linking table)
+
+Run Proc scripts

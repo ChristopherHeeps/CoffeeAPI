@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CoffeeAPI.Model\CoffeeAPI.Model.csproj" />
+    <ProjectReference Include="..\CoffeeAPI.Repository\CoffeeAPI.Repository.csproj" />
+    <ProjectReference Include="..\CoffeeAPI.ResourceModels\CoffeeAPI.ResourceModels.csproj" />
+  </ItemGroup>
+
+</Project>
